@@ -1,0 +1,3 @@
+-- Recompilando Funções de Banco de Dados
+
+ALTER FUNCTION FNC_CONSULTA_SALARIO_EMPREGADO COMPILE;
